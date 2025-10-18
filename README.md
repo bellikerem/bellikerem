@@ -1,22 +1,23 @@
-# 🌟 Merhaba, Ben Kerem Can Belli
+# 🌟 Hello, I'm Kerem Can Belli
 
-### 🚀 Vizyon & Hedefler
-Ben Bahçeşehir Üniversitesi'nde tam burslu (%100) Bilgisayar Mühendisliği öğrencisiyim. 
-Kariyer hedefim, modern **Full-Stack Web Geliştirme** ve **Yapay Zeka (AI/ML)** alanlarını birleştiren hibrit bir mühendis olmaktır.
+### 🚀 Vision & Goals
+I'm a computer engineering student at Bahçeşehir university with full scholarship (%100). 
+My career goal is to be a hybrid engineer who combines modern **Full-Stack Web Development** and **Artificial Intelligence (AI/ML)** fields.
 
-### 🛠️ Şu Anki Odak Noktalarım (Yıl 1)
-- **Python:** OOP (Nesne Tabanlı Programlama) ve Algoritmik düşünme temelleri.
-- **Web Geliştirme:** HTML5, CSS3 ve semantik yapı.
-- **Profesyonel Disiplin:** Tüm projelerde temiz **Git/GitHub** sürüm kontrol alışkanlığı.
+### 🛠️ Current Focus Points (Year 1)
+- **Python:** Fundamentals of OOP (Object-Oriented Programming) and Algorithmic Thinking.
+- **Web Development:** HTML5, CSS3, and semantic structure.
+- **Professional Discipline:** Clean **Git/GitHub** version control habits on all projects.
 
-### 💻 Öne Çıkan Çalışmalar
-Proje disiplinime ve kod kalitesine verdiğim önemi görmek için çalışmalarımı inceleyin:
-- **Statik Kişisel Portfolyo:** HTML/CSS ile geliştirdiğim ve 14 anlamlı commit ile tamamladığım ilk projem.
+### 💻 Featured Works
+Check out my work to see the importance I place on project discipline and code quality:
+- **Static Personal Portfolio:** This is my first project that I developed with HTML/CSS and completed with 14 meaningful commits.
     - [https://bellikerem.github.io/static-personal-portfolio/]
     - [https://github.com/bellikerem/static-personal-portfolio]
-- **Sıradaki Hedef:** Python ile Not Hesaplama CLI projesi.
+- **Python Starter Algorithms:** This is my first project that I developed with python.
+    - [https://github.com/bellikerem/python-starter-algorithms]
 
-### 🔗 Benimle Bağlantı Kurun
+### 🔗 Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/keremcanbelli" target="_blank">LinkedIn</a>
   |
