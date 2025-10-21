@@ -16,6 +16,8 @@ Check out my work to see the importance I place on project discipline and code q
     - [https://github.com/bellikerem/static-personal-portfolio]
 - **Python Starter Algorithms:** This is my first project that I developed with python.
     - [https://github.com/bellikerem/python-starter-algorithms]
+- **Python OOP Fundamentals:** This project is a complete set covering all the main principles of OOP (Encapsulation, Inheritance, Polymorphism).
+    - [https://github.com/bellikerem/python-oop-fundamentals]
 
 ### 🔗 Contact Me
 <p align="left">
